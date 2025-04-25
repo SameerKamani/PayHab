@@ -138,9 +138,18 @@ flask-limiter==3.3.1
 
 ## 📷 Screenshots
 
-| Login Screen | Dashboard | Vendor Detail |
+| Login Screen | SignUp | Dashboard |
 |:------------:|:---------:|:-------------:|
-| ![Login](https://via.placeholder.com/250x500?text=Login) | ![Dashboard](https://via.placeholder.com/250x500?text=Dashboard) | ![Vendor](https://via.placeholder.com/250x500?text=Vendor+Detail) |
+| <p align="center">
+  <img src="temp/login_screen.png" alt="PayHab Logo" width="350">
+</p>
+| <p align="center">
+  <img src="temp/signup_screen.png" alt="PayHab Logo" width="350">
+</p> 
+| <p align="center">
+  <img src="temp/main_dashboard_screen.png" alt="PayHab Logo" width="350">
+</p>
+|
 
 ## 📋 Project Structure
 
