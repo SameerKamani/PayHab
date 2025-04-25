@@ -144,11 +144,15 @@ flask-limiter==3.3.1
     <td align="center"><b>Login Screen</b></td>
     <td align="center"><b>SignUp</b></td>
     <td align="center"><b>Dashboard</b></td>
+    <td align="center"><b>Vendor Detail</b></td>
+    <td align="center"><b>Recent Transactions</b></td>
   </tr>
   <tr>
     <td><img src="temp/login_screen.png" alt="Login Screen" width="250"/></td>
     <td><img src="temp/signup_screen.png" alt="Signup Screen" width="250"/></td>
     <td><img src="temp/main_dashboard_screen.png" alt="Dashboard Screen" width="250"/></td>
+    <td><img src="temp/vendor_detail.png" alt="Vendor Detail" width="250"/></td>
+    <td><img src="temp/recent_transaction.png" alt="Recent Transactions" width="250"/></td>
   </tr>
 </table>
 </div>
