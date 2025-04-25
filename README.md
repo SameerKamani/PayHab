@@ -2,7 +2,9 @@
 
 A cross-platform Flutter application with a Flask backend for managing student loans and payments. PayHab helps students track and manage loans with different vendors.
 
-![PayHab](https://via.placeholder.com/800x400?text=PayHab+App)
+<p align="center">
+  <img src="assests/payhab_logo.jpeg" alt="PayHab Logo" width="350">
+</p>
 
 ## 📱 Features
 
@@ -177,8 +179,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For any inquiries, please reach out to [your-email@example.com](mailto:your-email@example.com)
+For any inquiries, please reach out to [sameerkamani03@gmail.com](mailto:sameerkamani03@gmail.com)
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Dream Team
